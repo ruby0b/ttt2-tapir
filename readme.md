@@ -6,6 +6,12 @@ The concept is inspired by [Doremy Sweet](https://en.touhouwiki.net/wiki/Doremy_
 
 If you're not using the class but want to spawn a tapir in your own code, use the global `function SpawnTapir(owner: Player)`.
 
+### Dependencies
+
++ [Tapir models](https://steamcommunity.com/sharedfiles/filedetails/?id=1327409757)
++ [TTT2](https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556)
++ [TTTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1368035687) (optional, obviously needed for the class)
+
 ### Copyright
 
 This project is a fan work based on the Touhou Project.

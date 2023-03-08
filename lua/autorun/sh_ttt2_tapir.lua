@@ -3,6 +3,7 @@ local drowsy_icon = "vgui/ttt/status/hud_icon_drowsemy.png"
 
 if SERVER then
     AddCSLuaFile()
+    resource.AddWorkshop("1327409757") -- Tapir models
     resource.AddFile("sound/touhou/eternal_spring_dream_short.ogg")
     resource.AddFile("materials/" .. drowsy_overlay)
     resource.AddFile("materials/" .. drowsy_icon)
