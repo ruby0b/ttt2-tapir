@@ -1,0 +1,6 @@
+{
+  "title": "[TTT2] Tapir [ROLE]",
+  "type": "ServerContent",
+  "tags": ["roleplay", "fun"],
+  "ignore": [".git", ".gitignore", ".gitattributes", "readme.md", ".workshop.yaml", "LICENSE"]
+}
