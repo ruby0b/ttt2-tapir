@@ -1,4 +1,4 @@
-## Tapir TTT2 Class
+## \[TTT2\] Tapir \[Class\]
 
 Includes a silly TTT2 Class that can spawn a friendly Tapir which fights for you.
 Players damaged by the Tapir will suffer the "drowsy" status effect which will obscure their screen and play Touhou music on their end.
