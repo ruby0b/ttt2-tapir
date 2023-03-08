@@ -1,3 +1,5 @@
+.workshop.yaml
+
 # Compiled Lua sources
 luac.out
 
