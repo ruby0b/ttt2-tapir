@@ -8,7 +8,7 @@ if SERVER then
     resource.AddFile("materials/" .. drowsy_icon)
 end
 
-local cv_health = CreateConVar("ttt_tapir_health", 200,
+local cv_health = CreateConVar("ttt_tapir_health", 400,
     { FCVAR_ARCHIVE, FCVAR_REPLICATED },
     "How much health should the tapir have?")
 local cv_damage = CreateConVar("ttt_tapir_damage", 4,
