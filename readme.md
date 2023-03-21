@@ -8,9 +8,22 @@ If you're not using the class but want to spawn a tapir in your own code, use th
 
 ### Dependencies
 
-+ [Tapir models](https://steamcommunity.com/sharedfiles/filedetails/?id=1327409757)
-+ [TTT2](https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556)
-+ [TTTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1368035687) (optional, obviously needed for the class)
+- [Tapir models](https://steamcommunity.com/sharedfiles/filedetails/?id=1327409757)
+- [TTT2](https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556)
+- [TTTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1368035687) (optional, obviously needed for the class)
+
+### ConVars
+
+| ConVar                          |                               Default | Description                                                                                      |
+| ------------------------------- | ------------------------------------: | ------------------------------------------------------------------------------------------------ |
+| ttt_tapir_health                |                                   400 | How much health should the tapir have?                                                           |
+| ttt_tapir_damage                |                                     4 | How much damage should the tapir do with its attacks?                                            |
+| ttt_tapir_close_distance        |                                   100 | How closely should the tapir follow its owner? (in hammer units)                                 |
+| ttt_tapir_drowsy_duration       |                                    30 | How long should the drowsiness effect last in seconds? (def: 30, set to 0 to disable)            |
+| ttt_tapir_drowsy_volume         |                                   1.0 | How loud shoud the drowsiness music be? (1.0 means 100%, i.e. the normal volume of the file)     |
+| ttt_tapir_drowsy_audio          | touhou/eternal_spring_dream_short.ogg | The audio file to play for drowsy players, relative to "sound/" (set to empty string to disable) |
+| ttt_tapir_drowsy_audio_length   |                                 51.25 | How long does the audio file play in seconds before it should be looped? (def: 51.25)            |
+| ttt_tapir_drowsy_overlay_enable |                                     1 | Should drowsy players have a disorienting screen overlay effect?                                 |
 
 ### Copyright
 
