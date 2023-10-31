@@ -27,6 +27,5 @@ If you're not using the class but want to spawn a tapir in your own code, use th
 
 ### Copyright
 
-This project is a fan work based on the Touhou Project.
-Specifically, the files in the `sound/touhou/` directory belong to the Touhou Project and therefore do _not_ fall under the terms of this project's LICENSE.
+The files in the `sound/touhou/` directory belong to the Touhou Project and therefore do _not_ fall under the terms of this project's LICENSE.
 As such, any derivative works of this project that also include that content will have to follow the [Guidelines for Touhou Project Fan Creators](https://touhou-project.news/guidelines_en).
